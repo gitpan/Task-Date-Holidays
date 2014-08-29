@@ -1,5 +1,5 @@
 ---
-abstract: 'all modules in the Date::Holidays namespace'
+abstract: 'Work package for holiday modules in the Date::Holidays namespace'
 author:
   - 'Jonas B. Nielsen <jonasbn@cpan.org>'
 build_requires:
@@ -38,4 +38,5 @@ requires:
   Date::Holidays::PT: 0
   Date::Holidays::SK: 0
   Date::Holidays::USFederal: 0
-version: 0.01
+  perl: 5.006
+version: 0.02

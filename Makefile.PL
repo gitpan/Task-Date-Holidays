@@ -3,14 +3,14 @@
 use strict;
 use warnings;
 
-
+use 5.006;
 
 use ExtUtils::MakeMaker ;
 
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "all modules in the Date::Holidays namespace",
+  "ABSTRACT" => "Work package for holiday modules in the Date::Holidays namespace",
   "AUTHOR" => "Jonas B. Nielsen <jonasbn\@cpan.org>",
   "BUILD_REQUIRES" => {
     "Module::Build" => "0.28"
@@ -50,7 +50,7 @@ my %WriteMakefileArgs = (
     "IPC::Open3" => 0,
     "Test::More" => 0
   },
-  "VERSION" => "0.01",
+  "VERSION" => "0.02",
   "test" => {
     "TESTS" => "t/*.t"
   }

@@ -1,9 +1,9 @@
 
 
 This archive contains the distribution Task-Date-Holidays,
-version 0.01:
+version 0.02:
 
-  all modules in the Date::Holidays namespace
+  Work package for holiday modules in the Date::Holidays namespace
 
 This software is Copyright (c) 2014 by Jonas B. Nielsen.
 

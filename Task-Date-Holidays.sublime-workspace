@@ -95,7 +95,7 @@
 			"file": "dist.ini",
 			"settings":
 			{
-				"buffer_size": 831,
+				"buffer_size": 852,
 				"line_ending": "Unix"
 			}
 		}
@@ -103,7 +103,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 47.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
@@ -231,7 +231,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 503.0
+		"width": 476.0
 	},
 	"console":
 	{
@@ -478,15 +478,15 @@
 					"file": "dist.ini",
 					"settings":
 					{
-						"buffer_size": 831,
+						"buffer_size": 852,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								358,
-								358
+								851,
+								405
 							]
 						],
 						"settings":
@@ -755,6 +755,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"cvr",
+				"/Users/jonasbn/develop/github/bdkcvr/business-dk-cvr.sublime-project"
+			],
 			[
 				"Date",
 				"/Users/jonasbn/develop/github/Date-Holidays/Date-Holidays.sublime-project"

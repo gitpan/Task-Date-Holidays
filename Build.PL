@@ -14,12 +14,12 @@ my %module_build_args = (
     "ExtUtils::MakeMaker" => 0,
     "Module::Build" => "0.28"
   },
-  "dist_abstract" => "all modules in the Date::Holidays namespace",
+  "dist_abstract" => "Work package for holiday modules in the Date::Holidays namespace",
   "dist_author" => [
     "Jonas B. Nielsen <jonasbn\@cpan.org>"
   ],
   "dist_name" => "Task-Date-Holidays",
-  "dist_version" => "0.01",
+  "dist_version" => "0.02",
   "license" => "artistic_2",
   "module_name" => "Task::Date::Holidays",
   "recommends" => {},
@@ -43,7 +43,8 @@ my %module_build_args = (
     "Date::Holidays::PL" => 0,
     "Date::Holidays::PT" => 0,
     "Date::Holidays::SK" => 0,
-    "Date::Holidays::USFederal" => 0
+    "Date::Holidays::USFederal" => 0,
+    "perl" => "5.006"
   },
   "script_files" => [],
   "test_requires" => {

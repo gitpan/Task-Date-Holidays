@@ -1,21 +1,22 @@
 use strict;
 use warnings;
+use 5.006;
 
 package Task::Date::Holidays;
-
+$Task::Date::Holidays::VERSION = '0.02';
 1;
 
 __END__
 
 =pod
 
-=head1
+=head1 NAME
 
-Task::Date::Holidays - all modules in the Date::Holidays namespace
+Task::Date::Holidays - Work package for holiday modules in the Date::Holidays namespace
 
 =head1 VERSION
 
-This POD describes version 0.01 of Task::Date::Holidays
+version 0.02
 
 =head1 SYNOPSIS
 
