@@ -19,7 +19,7 @@ my %module_build_args = (
     "Jonas B. Nielsen <jonasbn\@cpan.org>"
   ],
   "dist_name" => "Task-Date-Holidays",
-  "dist_version" => "0.02",
+  "dist_version" => "0.03",
   "license" => "artistic_2",
   "module_name" => "Task::Date::Holidays",
   "recommends" => {},

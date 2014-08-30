@@ -3,7 +3,7 @@ use warnings;
 use 5.006;
 
 package Task::Date::Holidays;
-$Task::Date::Holidays::VERSION = '0.02';
+$Task::Date::Holidays::VERSION = '0.03';
 1;
 
 __END__
@@ -16,7 +16,7 @@ Task::Date::Holidays - Work package for holiday modules in the Date::Holidays na
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 SYNOPSIS
 

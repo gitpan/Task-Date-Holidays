@@ -39,4 +39,7 @@ requires:
   Date::Holidays::SK: 0
   Date::Holidays::USFederal: 0
   perl: 5.006
-version: 0.02
+resources:
+  homepage: https://github.com/jonasbn/perl-Task-Date-Holidays
+  repository: https://github.com/jonasbn/perl-Task-Date-Holidays.git
+version: 0.03
